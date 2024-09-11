@@ -39,7 +39,7 @@ let dados= [
 },
 {
     titulo: " Pitbull terrier",
-    descricao:"  O pit bull atua hoje principalmente como cão de companhia e cão atleta em esportes lícitos, e, em menor escala também como cão de agarre em caça lícita de grandes animais como javalis. cão-guia para cegos. Muito doce, o labrador é um cachorro recomendado para famílias com crianças, pois é um companheiro de ótimo temperamento. <br>.É uma raça muito ativa, que gosta de esporte e de nadar. É preciso fazer exercícios para que o cão possa direcionar sua energia, para não causar problemas como a mastigação e a destruição de alguns pertences.<br>.O pit bull herdou o nome terrier dos seus ancestrais de tipo terrier, que cruzados com o antigo buldogue inglês resultaram numa simbiose perfeita entre força e agilidade, originando o bull-&-terrier, considerado o gladiador das arenas do mundo canino e ancestral direto do pit bull.",
+    descricao:"  O pitbull atua hoje principalmente como cão de companhia e cão atleta em esportes lícitos, e, em menor escala também como cão de agarre em caça lícita de grandes animais como javalis.O pit bull é um cão atlético de porte médio do tipo terrier, e descende do extinto bull-and-terrier, cães que eram gerados pelo cruzamento entre o extinto antigo buldogue inglês e o antigo terrier inglês .",
     link: "https://pt.wikipedia.org/wiki/American_pit_bull_terrier",
     imagem: "./imagens/pitbull.webp" 
 },
@@ -62,7 +62,7 @@ let dados= [
     imagem: "./imagens/rottweile.jpg" 
 },
 {
-    titulo: "Buldogue",
+    titulo: "Buldog Inglês",
     descricao: "Sua origem não é muito certa, embora se saiba que até meados do século XVIII seus ancestrais (possíveis descendentes do alão),<br> mais altos e ágeis, eram utilizados em combates contra touros, de onde herdaram a nomeação 'bulldog'. Quando estes combates (bull-baiting) foram proibidos em 1835, o buldogue quase chegou a extinção.[2] Por volta de 1860,<br> quando as exposições de cães se tornaram populares, o antigo buldogue foi modificado, tornando-se bem mais baixo, com peito mais largo, e focinho achatado com prognatismo mais presente. Algumas fontes relatam que esta mudança de tamanho e modificação do focinho ocorreu devido aos cruzamentos com pug.",
     link: "https://pt.wikipedia.org/wiki/Buldogue",
     imagem: "./imagens/buldogue.jpg" 
@@ -72,6 +72,12 @@ let dados= [
     descricao: "É uma raça antiga e de origem ainda desconhecida. Análises de DNA sugerem que estes cães tenham surgido originalmente na Mongólia ou Sibéria, e então foram levados para a China.Na China estes cães são chamados de Songshi Quan (Pinyin: 鬆獅犬 [sōngshī quǎn]), que significa literalmente 'cão-leão-empolado'. <br> É suposto que sua imagem já tenha sido usada para decoração de objetos na Dinastia Han em 206 a.c e que durante a Dinastia Tang um dos imperadores teve em seu canil dois mil e quinhentos exemplares destes caninos, e estes ficaram conhecidos como Tang Quan (cão da Dinastia Tang).",
     link: "https://pt.wikipedia.org/wiki/Chow-chow",
     imagem: "./imagens/chowchow.webp" 
+},
+{
+    titulo: "Buldog Francês",
+    descricao: "O buldogue Francês, que conhecemos, é o produto de diferentes cruzamentos feitos por criadores nos bairros populares de Paris no ano de 1880. Sua história está ligada a marginalização britânica que sofreu durante o século XIX. Naquela época o buldogue existia em apenas um tamanho na Grã-Bretanha, já que os exemplares nascidos menores eram rejeitados.Fisicamente pode atingir os 31 cm e pesar 12,5 kg. Sua pelagem é bastante curta, grossa e de aspecto brilhante, podendo ainda apresentar-se em quatro diferentes cores: fulvo, malhado, vermelho tigrado e preto tigrado. <br> <br.",
+    link: "https://pt.wikipedia.org/wiki/Chow-chow",
+    imagem: "./imagens/bulldogfrances.jpg" 
 }
 ];
 
